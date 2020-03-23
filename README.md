@@ -1,2 +1,2 @@
 # cs586recordExpunge
-take the info from json files to postgreSQL database. Configure to searchable well designed structure.
+Take the info from json files to a postgreSQL database. Configure to the database to a searchable well designed structure.
